@@ -1,0 +1,3 @@
+CREATE TABLE x ( x DOUBLE ) ;
+INSERT INTO x ( x ) VALUES ( 1 ) ;
+UPDATE x SET x = 1 WHERE x * 1.000000 ;
